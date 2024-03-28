@@ -40,7 +40,7 @@ My chosen API for this project is PokeAPI
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/Niama001/PokeApi/blob/10e8df1bccc6671bee25657121c379b226ce9bbf/PokeApi.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with ScreenToGif
 
