@@ -10,7 +10,7 @@ Time spent: 4 hours spent in total
 
 PokeApi is an android app that is an app that displays a random character from the Pokemon cartoon
 
-If I had to describe this project in three (3) emojis, they would be: 
+If I had to describe this project in three (3) emojis, they would be: 😖 💣 😡
 
 ## Application Features
 
